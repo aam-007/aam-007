@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @aam-007 or Aditya Arvind Mishra
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning haskel
 
+- Happy
 
 <!---
 aam-007/aam-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
